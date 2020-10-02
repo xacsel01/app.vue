@@ -26,3 +26,9 @@ export default {
   margin-top: 60px;
 }
 </style>
+
+<ol>
+<li>Listas</li>
+<li>Paquetes</li>
+<li>Archivos</li>
+</ol>
